@@ -22,7 +22,7 @@ repository               : "vsondergeld/vsondergeld.github.io"
 author:
   # Biographic information
   avatar           : "IMG_0092_b.jpg"
-  name             : "Virginia Sondergeld"
+  name             : # "Virginia Sondergeld"
   pronouns         : "she/her"  
   bio              : "Applied microeconomist and data enthusiast"
   location         : "Berlin"

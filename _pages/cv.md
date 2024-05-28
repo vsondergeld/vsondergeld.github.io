@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find me full CV [here]('http://academicpages.github.io/files/virginia_sondergeld_cv_na.pdf')
+You can find me full CV [here](http://vsondergeld.github.io/files/virginia_sondergeld_cv_na.pdf)
