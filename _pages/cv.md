@@ -11,3 +11,4 @@ redirect_from:
 
 
 
+You can find my CV [here](https://vsondergeld.github.io/files/virginia_sondergeld_cv_na.pdf)
