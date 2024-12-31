@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The Women in Economics Initiative"
+title: ""
 permalink: /wie/
 author_profile: true
 ---
