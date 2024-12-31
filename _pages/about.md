@@ -14,4 +14,4 @@ I use Indeed's job posting, resume, and other data to research global labor mark
 
 I am affiliated with DIW Berlin, where I wrote my PhD thesis on the impact of women in management on labor market and firm outcomes. 
 
-I co-founded The Women in Economics Initiative, a not-for-profit organisation working on gender and diversity in the economics profession, which I led until October 2024.
+I co-founded [The Women in Economics Initiative](https://www.women-in-economics.com/), a not-for-profit organisation working on gender and diversity in the economics profession, which I led until October 2024.
