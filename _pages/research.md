@@ -12,6 +12,10 @@ author_profile: true
 Publications
 ======
 
+"DIW Women Executives Barometer 2025: Despite Rising Shares of Women on Executive And Supervisory Boards, Gender Parity Remains A Far-off Goal", with Katharina Wrohlich, Anja Kirsch, DIW Weekly Report 3/2025. 
+
+"Medien berichten geschlechterstereotyp über Vorständinnen und Aufsichtsrätinnen von DAX-Unternehmen", with Lavinia Kinne, Katharina Wrohlich, DIW Wochenbericht 4/2025.
+
 "Women’s Representation on Corporate Boards Increases – But Further Efforts Needed", [Wirtschaftsdienst, 2/2024](https://sciendo.com/article/10.2478/wd-2024-0038): 136-138.
 
 "DIW Women Executives Barometer 2024: Share of women on the executive boards of large companies has increased, but generally is at most one woman", with Katharina Wrohlich, Anja Kirsch, DIW Weekly Report 3/2024. Featured in [Frankfurter Allgemeine Zeitung](https://www.faz.net/aktuell/karriere-hochschule/buero-co/diw-auswertung-frauenanteil-in-vorstaenden-seit-2018-verdoppelt-19454288.html) and [Tagesspiegel](https://www.tagesspiegel.de/wirtschaft/mehr-vorstandinnen-in-grossen-unternehmen-frauen-an-der-spitze-bleiben-oft-allein-unter-mannern-11066197.html).
