@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Hi! I am an applied microeconomist interested in labor and gender. In December 2024, I joined the Indeed Hiring Lab as an Economist. 
+Hi! I am an applied economist interested in labor and gender. In December 2024, I joined the Indeed Hiring Lab as an Economist. 
 
 I use Indeed's job posting, resume, and other data to research global labor market trends and lead all work on the German labor market.
 
