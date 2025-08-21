@@ -46,13 +46,13 @@ Work in progress
 
 "Meet my Family: The Effect of Female CEOs’ Newspaper Coverage on Financial Decision Making", with Lavinia Kinne.
 
-"Gender-inclusive language in German companies: a sign of active gender equality efforts or pinkwashing?", with Samira Ochs, Carolin Müller-Spitzer and Katharina Wrohlich, pre-registered in OSF registries.
+"Gender-Inclusive Language in the Corporate Communication of German Companies: Authentic Corporate Activism or Pinkwashing?", with Samira Ochs, Carolin Müller-Spitzer and Katharina Wrohlich, [DIW Discussion Paper](https://www.diw.de/de/diw_01.c.971560.de/publikationen/diskussionspapiere/2025_2135/gender-inclusive_language_in_the_corporate_communication_of___rman_companies__authentic_corporate_activism_or_pinkwashing.html "DIW Discussion Paper"), August 2025.
 
 
 
 Data Publications
 ======
 
-"DIW Women Executives Barometer: Method Report and Codebook for the Waves 2015-2024", with Katharina Wrohlich, [DIW Data Documentation 107](https://www.diw.de/de/diw_01.c.898294.de/publikationen/data_documentation/2024_0107/diw_women_executives_barometer__method_report_and_codebook_for_the_waves_2015-2024.html), 2024.
+"DIW Women Executives Barometer: Method Report and Codebook for the Waves 2015-2025", with Katharina Wrohlich, [DIW Data Documentation 107](https://www.diw.de/de/diw_01.c.898294.de/publikationen/data_documentation/2024_0107/diw_women_executives_barometer__method_report_and_codebook_for_the_waves_2015-2025.html), 2025.
 
 "The Women in Economics Index - Monitoring Women Economists' Representation in Leadership Positions", with Jana Schuetz and Insa Weilage, [Discussion Paper 2076](https://www.diw.de/de/diw_01.c.898656.de/publikationen/diskussionspapiere/2024_2076/the_women_in_economics_index_-_monitoring_women_economists__representation_in_leadership_positions.html "Discussion Paper 2076"), March 2024. [[data]](https://doi.org/10.7910/DVN/YEZX3X)
