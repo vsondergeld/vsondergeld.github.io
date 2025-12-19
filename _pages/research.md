@@ -20,15 +20,17 @@ Work in progress
 *Submitted*.
 </span>
 
-"Meet my family: women in leadership and gender stereotypes in the media", with Lavinia Kinne. Best paper award at the European Winter Meeting of the Econometric Society 2025. *Draft in preparation*.
-
+**"Meet my family: women in leadership and gender stereotypes in the media"**
+<span class="pub-meta">
+, with Lavinia Kinne. Best paper award at the European Winter Meeting of the Econometric Society 2025. *Draft in preparation*.
+</span>
 
 Policy-related Publications
 ======
 
-"Medien berichten geschlechterstereotyp über Vorständinnen und Aufsichtsrätinnen von DAX-Unternehmen", with Lavinia Kinne, Katharina Wrohlich, DIW Wochenbericht 4/2025. Featured in [tagesschau.de](https://www.tagesschau.de/wirtschaft/unternehmen/managerinnen-fuehrungspositionen-frauen-100.html), [Deutschlandfunk](https://www.deutschlandfunk.de/frauen-in-fuehrungspositionen-medien-berichten-haeufig-klischeehaft-100.html) and [Der Spiegel](https://www.spiegel.de/wirtschaft/unternehmen/frauen-in-dax-unternehmen-warum-die-kinderfrage-immer-noch-eine-rolle-spielt-gastbeitrag-a-dc6f98c5-1feb-403d-ab04-047eeb16ad2e).
+**"Medien berichten geschlechterstereotyp über Vorständinnen und Aufsichtsrätinnen von DAX-Unternehmen"**, with Lavinia Kinne, Katharina Wrohlich, DIW Wochenbericht 4/2025. Featured in [tagesschau.de](https://www.tagesschau.de/wirtschaft/unternehmen/managerinnen-fuehrungspositionen-frauen-100.html), [Deutschlandfunk](https://www.deutschlandfunk.de/frauen-in-fuehrungspositionen-medien-berichten-haeufig-klischeehaft-100.html) and [Der Spiegel](https://www.spiegel.de/wirtschaft/unternehmen/frauen-in-dax-unternehmen-warum-die-kinderfrage-immer-noch-eine-rolle-spielt-gastbeitrag-a-dc6f98c5-1feb-403d-ab04-047eeb16ad2e).
 
-"DIW Women Executives Barometer 2025: Despite Rising Shares of Women on Executive And Supervisory Boards, Gender Parity Remains A Far-off Goal", with Katharina Wrohlich, Anja Kirsch, DIW Weekly Report 3/2025. 
+**"DIW Women Executives Barometer 2025: Despite Rising Shares of Women on Executive And Supervisory Boards, Gender Parity Remains A Far-off Goal", with Katharina Wrohlich, Anja Kirsch, DIW Weekly Report 3/2025. 
 
 "Women’s Representation on Corporate Boards Increases – But Further Efforts Needed", [Wirtschaftsdienst, 2/2024](https://sciendo.com/article/10.2478/wd-2024-0038): 136-138.
 
