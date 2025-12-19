@@ -14,12 +14,12 @@ classes: research-page
 
 
 
-Publications
+Policy Work
 ======
 
-"DIW Women Executives Barometer 2025: Despite Rising Shares of Women on Executive And Supervisory Boards, Gender Parity Remains A Far-off Goal", with Katharina Wrohlich, Anja Kirsch, DIW Weekly Report 3/2025. 
-
 "Medien berichten geschlechterstereotyp über Vorständinnen und Aufsichtsrätinnen von DAX-Unternehmen", with Lavinia Kinne, Katharina Wrohlich, DIW Wochenbericht 4/2025. Featured in [tagesschau.de](https://www.tagesschau.de/wirtschaft/unternehmen/managerinnen-fuehrungspositionen-frauen-100.html), [Deutschlandfunk](https://www.deutschlandfunk.de/frauen-in-fuehrungspositionen-medien-berichten-haeufig-klischeehaft-100.html) and [Der Spiegel](https://www.spiegel.de/wirtschaft/unternehmen/frauen-in-dax-unternehmen-warum-die-kinderfrage-immer-noch-eine-rolle-spielt-gastbeitrag-a-dc6f98c5-1feb-403d-ab04-047eeb16ad2e).
+
+"DIW Women Executives Barometer 2025: Despite Rising Shares of Women on Executive And Supervisory Boards, Gender Parity Remains A Far-off Goal", with Katharina Wrohlich, Anja Kirsch, DIW Weekly Report 3/2025. 
 
 "Women’s Representation on Corporate Boards Increases – But Further Efforts Needed", [Wirtschaftsdienst, 2/2024](https://sciendo.com/article/10.2478/wd-2024-0038): 136-138.
 
@@ -41,11 +41,12 @@ Publications
 Work in progress
 ======
 
-"Gender Differences and Stereotypes in Media Coverage of Company Board Members", draft available upon request.
+"Gender-Inclusive Language in the Corporate Communication of German Companies: Authentic Corporate Activism or Pinkwashing?", with Samira Ochs, Carolin Müller-Spitzer and Katharina Wrohlich, [DIW Discussion Paper](https://www.diw.de/de/diw_01.c.971560.de/publikationen/diskussionspapiere/2025_2135/gender-inclusive_language_in_the_corporate_communication_of___rman_companies__authentic_corporate_activism_or_pinkwashing.html "DIW Discussion Paper"), *Submitted*.
 
-"Meet my Family: The Effect of Female CEOs’ Newspaper Coverage on Financial Decision Making", with Lavinia Kinne.
 
-"Gender-Inclusive Language in the Corporate Communication of German Companies: Authentic Corporate Activism or Pinkwashing?", with Samira Ochs, Carolin Müller-Spitzer and Katharina Wrohlich, [DIW Discussion Paper](https://www.diw.de/de/diw_01.c.971560.de/publikationen/diskussionspapiere/2025_2135/gender-inclusive_language_in_the_corporate_communication_of___rman_companies__authentic_corporate_activism_or_pinkwashing.html "DIW Discussion Paper"), August 2025.
+"Meet my family: women in leadership and gender stereotypes in the media", with Lavinia Kinne, *draft in preparation*.
+
+
 
 
 
