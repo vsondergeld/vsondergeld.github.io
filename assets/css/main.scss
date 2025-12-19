@@ -39,3 +39,11 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+
+/* Research page: smaller publication text */
+.research-page p {
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
