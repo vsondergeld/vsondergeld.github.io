@@ -40,7 +40,6 @@ Publications
 
 Work in progress
 ======
-"Women in Management and the Gender Pay Gap, with Katharina Wrohlich", [IZA Discussion Paper No. 16323](https://www.iza.org/de/publications/dp/16323/women-in-management-and-the-gender-pay-gap "IZA Discussion Paper No. 16323"), July 2023.
 
 "Gender Differences and Stereotypes in Media Coverage of Company Board Members", draft available upon request.
 
