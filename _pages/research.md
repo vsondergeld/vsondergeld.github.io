@@ -13,10 +13,9 @@ classes: research-page
 Work in progress
 ======
 
-"Gender-Inclusive Language in the Corporate Communication of German Companies: Authentic Corporate Activism or Pinkwashing?", with Samira Ochs, Carolin Müller-Spitzer and Katharina Wrohlich, [DIW Discussion Paper](https://www.diw.de/de/diw_01.c.971560.de/publikationen/diskussionspapiere/2025_2135/gender-inclusive_language_in_the_corporate_communication_of___rman_companies__authentic_corporate_activism_or_pinkwashing.html "DIW Discussion Paper"), *submitted*.
+"Gender-Inclusive Language in the Corporate Communication of German Companies: Authentic Corporate Activism or Pinkwashing?", with Samira Ochs, Carolin Müller-Spitzer and Katharina Wrohlich, [DIW Discussion Paper](https://www.diw.de/de/diw_01.c.971560.de/publikationen/diskussionspapiere/2025_2135/gender-inclusive_language_in_the_corporate_communication_of___rman_companies__authentic_corporate_activism_or_pinkwashing.html "DIW Discussion Paper"). *Submitted*.
 
-"Meet my family: women in leadership and gender stereotypes in the media", with Lavinia Kinne, *draft in preparation*.
-> Best paper award at the European Winter Meeting of the Econometric Society 2025 in Nicosia, Cyprus.
+"Meet my family: women in leadership and gender stereotypes in the media", with Lavinia Kinne. Best paper award at the European Winter Meeting of the Econometric Society 2025. *Draft in preparation*.
 
 
 Policy Work
