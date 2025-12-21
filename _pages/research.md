@@ -13,6 +13,11 @@ classes: research-page
 Work in progress
 ======
 
+**"Meet my family: women in leadership and gender stereotypes in the media"**
+<span class="pub-meta">
+, with [Lavinia Kinne](https://sites.google.com/view/laviniakinne). Best paper award at the European Winter Meeting of the Econometric Society 2025. *Draft in preparation*.
+</span>
+
 **"Gender-Inclusive Language in the Corporate Communication of German Companies: Authentic Corporate Activism or Pinkwashing?"**
 <span class="pub-meta">
 , with [Samira Ochs](https://perso.ids-mannheim.de/seiten/ochs.html), [Carolin Müller-Spitzer](https://www.phil.uni-mannheim.de/ids/team/prof-dr-carolin-mueller-spitzer/) and [Katharina Wrohlich](https://www.diw.de/de/diw_01.c.10990.de/personen/wrohlich__katharina.html),
@@ -20,12 +25,7 @@ Work in progress
 *Submitted*.
 </span>
 
-**"Meet my family: women in leadership and gender stereotypes in the media"**
-<span class="pub-meta">
-, with [Lavinia Kinne](https://sites.google.com/view/laviniakinne). Best paper award at the European Winter Meeting of the Econometric Society 2025. *Draft in preparation*.
-</span>
-
-
+<br><br>
 
 Policy-related Publications
 ======
