@@ -75,8 +75,7 @@ Policy-related Publications
 <span class="pub-meta">
 , with Jess Palka and Philip Hanspach, VoxEU Column, February 2021. 
 </span>
-
-
+<br>
 
 Data Publications
 ======
