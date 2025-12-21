@@ -47,9 +47,8 @@
   line-height: 1.45;
 }
 
-/* Emphasize author name */
-.author__name {
-  font-size: 1.6rem;   // try 1.5–1.8rem
-  font-weight: 700;    // bold
-  line-height: 1.2;
+/* Emphasize site title in masthead */
+.masthead__menu-item--lg > a {
+  font-size: 1.4rem;   // try 1.3–1.6rem
+  font-weight: 700;
 }
