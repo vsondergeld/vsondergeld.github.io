@@ -24,7 +24,7 @@ Work in progress
 [DIW Discussion Paper](https://www.diw.de/de/diw_01.c.971560.de/publikationen/diskussionspapiere/2025_2135/gender-inclusive_language_in_the_corporate_communication_of___rman_companies__authentic_corporate_activism_or_pinkwashing.html).
 *Submitted*.
 </span>
-<br>
+<br><br>
 
 Policy-related Publications
 ======
@@ -75,7 +75,7 @@ Policy-related Publications
 <span class="pub-meta">
 , with Jess Palka and Philip Hanspach, VoxEU Column, February 2021. 
 </span>
-<br>
+<br><br>
 
 Data Publications
 ======
