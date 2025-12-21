@@ -52,3 +52,10 @@
   font-size: 1.4rem;   // try 1.3–1.6rem
   font-weight: 700;
 }
+
+
+.author__avatar img {
+  max-width: 160px;
+  width: 160px;
+  border-radius: 50%;
+}
