@@ -21,20 +21,36 @@ Work in progress
 **"Gender-Inclusive Language in the Corporate Communication of German Companies: Authentic Corporate Activism or Pinkwashing?"**
 <span class="pub-meta">
 , with [Samira Ochs](https://perso.ids-mannheim.de/seiten/ochs.html), [Carolin Müller-Spitzer](https://www.phil.uni-mannheim.de/ids/team/prof-dr-carolin-mueller-spitzer/) and [Katharina Wrohlich](https://www.diw.de/de/diw_01.c.10990.de/personen/wrohlich__katharina.html),
-[DIW Discussion Paper](https://www.diw.de/de/diw_01.c.971560.de/publikationen/diskussionspapiere/2025_2135/gender-inclusive_language_in_the_corporate_communication_of___rman_companies__authentic_corporate_activism_or_pinkwashing.html).
+[Working Paper](https://www.diw.de/de/diw_01.c.971560.de/publikationen/diskussionspapiere/2025_2135/gender-inclusive_language_in_the_corporate_communication_of___rman_companies__authentic_corporate_activism_or_pinkwashing.html).
 *Submitted*.
 </span>
 <br><br>
 
 Hiring Lab Blog
 ======
-
+<span class="pub-meta">
 I regularly publish on the [Indeed Hiring Lab Blog](https://www.hiringlab.org/), using Indeed data to provide timely insights into labor market trends. In a recent piece, I find that jobseekers' [desired benefits align with traditional gender roles](https://www.hiringlab.org/2025/12/04/women-value-flexibility-are-employers-risking-their-female-talent-by-standing-still/): women value flexibility, while men prioritize financial benefits. I have also analyzed [labor demand of European defense companies](https://www.hiringlab.org/de/blog/2025/06/19/mehr-stellenangebote-bei-europaeischen-ruestungsunternehmen-wachsendes-interesse-bei-deutschen-jobsuchenden/) and jobseekers' interest in that sector.
 
 In my quarterly Labor Market Update, I zoom in on current developments within the German market. My latest [Outlook & Hiring Trends Report](https://www.hiringlab.org/de/blog/2025/12/11/indeed-jobs-hiring-trends-report-deutschland-2026/) forecasts a moderate recovery in job postings in 2026, characterized by a deepening structural divide: while demand remains robust in construction, healthcare, and defense, traditional industrial and office roles face continued pressure. Other trends for 2026 include the accelerating AI transformation of white-collar jobs and a push for pay transparency driven by the anticipated implementation of the EU directive.
+</span>
 <br><br>
 
-Policy-related Publications
+Data Publications
+======
+
+**"DIW Women Executives Barometer: Method Report and Codebook for the Waves 2015-2025"**
+<span class="pub-meta">
+, with Katharina Wrohlich, [DIW Data Documentation 107](https://www.diw.de/de/diw_01.c.898294.de/publikationen/data_documentation/2024_0107/diw_women_executives_barometer__method_report_and_codebook_for_the_waves_2015-2025.html), 2025.
+</span>
+
+**"The Women in Economics Index - Monitoring Women Economists' Representation in Leadership Positions"**
+<span class="pub-meta">
+, with Jana Schuetz and Insa Weilage, [Discussion Paper 2076](https://www.diw.de/de/diw_01.c.898656.de/publikationen/diskussionspapiere/2024_2076/the_women_in_economics_index_-_monitoring_women_economists__representation_in_leadership_positions.html "Discussion Paper 2076"), March 2024. [[data]](https://doi.org/10.7910/DVN/YEZX3X)
+</span>
+<br><br>
+
+
+Selected policy-related Publications
 ======
 
 **"Medien berichten geschlechterstereotyp über Vorständinnen und Aufsichtsrätinnen von DAX-Unternehmen"**
@@ -85,15 +101,3 @@ Policy-related Publications
 </span>
 <br><br>
 
-Data Publications
-======
-
-**"DIW Women Executives Barometer: Method Report and Codebook for the Waves 2015-2025"**
-<span class="pub-meta">
-, with Katharina Wrohlich, [DIW Data Documentation 107](https://www.diw.de/de/diw_01.c.898294.de/publikationen/data_documentation/2024_0107/diw_women_executives_barometer__method_report_and_codebook_for_the_waves_2015-2025.html), 2025.
-</span>
-
-**"The Women in Economics Index - Monitoring Women Economists' Representation in Leadership Positions"**
-<span class="pub-meta">
-, with Jana Schuetz and Insa Weilage, [Discussion Paper 2076](https://www.diw.de/de/diw_01.c.898656.de/publikationen/diskussionspapiere/2024_2076/the_women_in_economics_index_-_monitoring_women_economists__representation_in_leadership_positions.html "Discussion Paper 2076"), March 2024. [[data]](https://doi.org/10.7910/DVN/YEZX3X)
-</span>
