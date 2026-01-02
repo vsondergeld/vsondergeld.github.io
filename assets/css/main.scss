@@ -59,3 +59,24 @@
   width: 210px;
   border-radius: 30%;
 }
+
+
+/* Light grey header background */
+.masthead {
+  background: #f5f5f5 !important;  // light grey
+}
+
+
+/* Fix the navigation background to match header */
+.greedy-nav {
+  background: #f5f5f5 !important;  // make nav background grey too
+}
+
+body {
+  background: white;  // ensure body background is white for contrast
+}
+
+/* Reduce padding to fit within header height */
+.masthead__inner-wrap {
+  padding: 0.65em 1em !important;  // reduce top/bottom padding
+}
