@@ -53,19 +53,6 @@
   font-weight: 700;
 }
 
-/* Light grey header background */
-.masthead {
-  background: #f5f5f5 !important;  // light grey
-  border-bottom: 1px solid #e0e0e0 !important;  // subtle border
-}
-
-.masthead__inner-wrap {
-  background: #f5f5f5 !important;  // ensure inner wrap is also grey
-}
-
-body {
-  background: white;  // ensure body background is white for contrast
-}
 
 .author__avatar img {
   max-width: 210px;
