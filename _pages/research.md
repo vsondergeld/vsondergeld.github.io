@@ -28,11 +28,10 @@ Work in progress
 
 Hiring Lab Blog
 ======
-<span class="pub-meta">
+
 I regularly publish on the [Indeed Hiring Lab Blog](https://www.hiringlab.org/), using Indeed data to provide timely insights into labor market trends. In a recent piece, I find that jobseekers' [desired benefits align with traditional gender roles](https://www.hiringlab.org/2025/12/04/women-value-flexibility-are-employers-risking-their-female-talent-by-standing-still/): women value flexibility, while men prioritize financial benefits. I have also analyzed [labor demand of European defense companies](https://www.hiringlab.org/de/blog/2025/06/19/mehr-stellenangebote-bei-europaeischen-ruestungsunternehmen-wachsendes-interesse-bei-deutschen-jobsuchenden/) and jobseekers' interest in that sector.
 
 In my quarterly Labor Market Update, I zoom in on current developments within the German market. My latest [Outlook & Hiring Trends Report](https://www.hiringlab.org/de/blog/2025/12/11/indeed-jobs-hiring-trends-report-deutschland-2026/) forecasts a moderate recovery in job postings in 2026, characterized by a deepening structural divide: while demand remains robust in construction, healthcare, and defense, traditional industrial and office roles face continued pressure. Other trends for 2026 include the accelerating AI transformation of white-collar jobs and a push for pay transparency driven by the anticipated implementation of the EU directive.
-</span>
 <br><br>
 
 Data Publications
