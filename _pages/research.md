@@ -29,9 +29,9 @@ Work in progress
 Hiring Lab Blog
 ======
 
-I regularly publish on the [Indeed Hiring Lab Blog](https://www.hiringlab.org/), using Indeed data to provide timely insights into labor market trends. In a recent piece, I find that jobseekers' [desired benefits align with traditional gender roles](https://www.hiringlab.org/2025/12/04/women-value-flexibility-are-employers-risking-their-female-talent-by-standing-still/): women value flexibility, while men prioritize financial benefits. I have also analyzed [labor demand of European defense companies](https://www.hiringlab.org/de/blog/2025/06/19/mehr-stellenangebote-bei-europaeischen-ruestungsunternehmen-wachsendes-interesse-bei-deutschen-jobsuchenden/) and jobseekers' interest in that sector.
+I regularly publish on the [Indeed Hiring Lab Blog](https://www.hiringlab.org/), using Indeed data to provide timely insights into labor market trends. In a recent piece, I have analyzed growing [labor demand of European defense companies](https://www.hiringlab.org/de/blog/2026/06/10/stellenangebot-der-europaeischen-ruestungsindustrie-bleibt-hoch/) and jobseekers' interest in that sector. Together with colleagues from DIW, I have also examined [gender differences in the AI transformation](https://www.hiringlab.org/de/blog/2026/04/21/frauen-und-maenner-in-der-ki-transformation-gleiches-potenzial-ungleiche-nutzung/). While there is no clear link between an occupation's AI transformation potential and its share of women, women use AI less often than men both at work and in private life. If left unaddressed, this gap could widen existing labor market inequalities.
 
-In my quarterly Labor Market Update, I zoom in on current developments within the German market. My latest [Outlook & Hiring Trends Report](https://www.hiringlab.org/de/blog/2025/12/11/indeed-jobs-hiring-trends-report-deutschland-2026/) forecasts a moderate recovery in job postings in 2026, characterized by a deepening structural divide: while demand remains robust in construction, healthcare, and defense, traditional industrial and office roles face continued pressure. Other trends for 2026 include the accelerating AI transformation of white-collar jobs and a push for pay transparency driven by the anticipated implementation of the EU directive.
+In my quarterly Labor Market Update, I zoom in on current developments within the German market. My latest [Q2 2026 update](https://www.hiringlab.org/de/blog/2026/07/22/arbeitsmarkt-update-q2-2026-sommerjobs-als-lichtblick-auf-einem-trueben-stellenmarkt/) shows German job postings falling to their lowest level in over five years — down 3.9% quarter-on-quarter — though summer jobs bucked the trend, holding steady year-on-year even as most other occupations declined.
 <br><br>
 
 Data Publications
@@ -51,6 +51,11 @@ Data Publications
 
 Selected policy-related Publications
 ======
+
+**"AI Transformation Potential Impacts Both Men and Women in the Labor Market"**
+<span class="pub-meta">
+, with Katharina Wrohlich, Julia Redelings, DIW Weekly Report 14/2026.
+</span>
 
 **"Medien berichten geschlechterstereotyp über Vorständinnen und Aufsichtsrätinnen von DAX-Unternehmen"**
 <span class="pub-meta">

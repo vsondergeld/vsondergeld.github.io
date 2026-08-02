@@ -1,5 +1,10 @@
 source "https://rubygems.org"
 
+# Ruby 3.4+ no longer bundles these as default gems, but Jekyll 3.9 still
+# requires them without declaring the dependency itself.
+gem "csv"
+gem "bigdecimal"
+
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
