@@ -14,12 +14,15 @@ gem "bigdecimal"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+# Using plain, modern Jekyll instead of the "github-pages" meta-gem for local
+# preview. github-pages hard-pins Jekyll 3.9 / Liquid 4.0.3 to mirror GitHub's
+# old legacy Pages build image, but this repo has no .github/workflows, so
+# GitHub Pages builds the live site on its own infrastructure and never reads
+# this Gemfile anyway. Pinning to ancient Jekyll only broke local preview on
+# modern Ruby (removed String#tainted?/#untaint), so we don't need it here.
+# gem "github-pages", group: :jekyll_plugins
 
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
-
-# gem "jekyll"
+gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
