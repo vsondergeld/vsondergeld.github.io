@@ -37,9 +37,9 @@ In my quarterly Labor Market Update, I zoom in on current developments within th
 Data Publications
 ======
 
-**"DIW Women Executives Barometer: Method Report and Codebook for the Waves 2015-2025"**
+**"The DIW Women Executives Barometer (DIW Managerinnen Barometer): Data on the Gender Composition of Corporate Boards in Germany"**
 <span class="pub-meta">
-, with Katharina Wrohlich, [DIW Data Documentation 107](https://www.diw.de/de/diw_01.c.898294.de/publikationen/data_documentation/2024_0107/diw_women_executives_barometer__method_report_and_codebook_for_the_waves_2015-2025.html), 2025.
+, with Arianna Antezza, Alina Meiner, Katharina Wrohlich, [Jahrbücher für Nationalökonomie und Statistik](https://doi.org/10.1515/jbnst-2026-0062), 2026.
 </span>
 
 **"The Women in Economics Index - Monitoring Women Economists' Representation in Leadership Positions"**
